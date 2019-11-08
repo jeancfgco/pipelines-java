@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/jeancfgco/Training%20Project/_apis/build/status/jeancfgco.pipelines-java?branchName=master)](https://dev.azure.com/jeancfgco/Training%20Project/_build/latest?definitionId=3&branchName=master)
 
 # Contributing
 
